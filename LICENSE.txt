@@ -1,0 +1,2 @@
+This is a lincense file,
+I just write two rows.
